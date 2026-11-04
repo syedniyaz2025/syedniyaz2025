@@ -1,3 +1,6 @@
+# Save this file in your profile repo at: .github/workflows/snake.yml
+# It draws the pink contribution snake and saves it to a branch called "output".
+
 name: Generate Snake
 
 on:
