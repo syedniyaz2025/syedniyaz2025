@@ -1,9 +1,9 @@
 <!-- ========== BANNER (switches with light / dark mode) ========== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2B1A22,50:EF93C4,100:FF69B4&height=220&section=header&text=Product%20%C2%B7%20CRM%20%C2%B7%20Design&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:EF93C4&height=220&section=header&text=Product%20%C2%B7%20CRM%20%C2%B7%20Design&fontSize=40&fontColor=7A2350&fontAlignY=36&animation=fadeIn" />
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:EF93C4&height=220&section=header&text=Product%20%C2%B7%20CRM%20%C2%B7%20Design&fontSize=40&fontColor=7A2350&fontAlignY=36" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2B1A22,50:EF93C4,100:FF69B4&height=220&section=header&text=Web%20Design%20%C2%B7%20Motion%20%C2%B7%20Product&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:EF93C4&height=220&section=header&text=Web%20Design%20%C2%B7%20Motion%20%C2%B7%20Product&fontSize=40&fontColor=7A2350&fontAlignY=36&animation=fadeIn" />
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:EF93C4&height=220&section=header&text=Web%20Design%20%C2%B7%20Motion%20%C2%B7%20Product&fontSize=40&fontColor=7A2350&fontAlignY=36" width="100%" />
   </picture>
 </p>
 
@@ -12,8 +12,8 @@
 
 <!-- ========== TYPING TEXT ========== -->
 <p align="center">
-  <a href="https://syedniyaz2025.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=620&lines=Product+Owner+who+writes+the+PRD;CRM+lead+reaching+millions+on+Braze;Web+designer+with+4+sites+shipped;UK+based+%C2%B7+Tunbridge+Wells" alt="Typing intro" />
+  <a href="https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=620&lines=Web+designer+building+motion+sites;Scroll%2C+cursor+and+3D+interactions;Product+Owner+who+writes+the+PRD;CRM+lead+reaching+millions+on+Braze;UK+based+%C2%B7+Tunbridge+Wells" alt="Typing intro" />
   </a>
 </p>
 
@@ -33,14 +33,14 @@
 <tr>
 <td width="65%" valign="middle">
 
-I work across **product, CRM and design**, so the thing we ship, the messages that follow it and the way it looks all pull in the same direction.
+I design **websites that move**: scroll-driven scenes, cursor interactions and small 3D moments that make a local business look like a brand. Under the hood I'm a product and CRM person, so the sites are built to convert, not just to look good.
 
+- 🎨 **Web designer** at my studio, **Clydren**, building motion sites in Framer, HTML and CSS for cafés, salons, florists, showrooms and small shops
+- ✨ Seven **live motion demos** below: a can that spins through the page, a bee that follows your cursor, a kitchen you can repaint
 - 📡 **Platform Operations Lead** at Virgin Media O2, across squads like Transform and Onboard & Use
-- 📝 Turn messy asks into clear **PRDs, requirements, user stories and acceptance criteria**
 - 💬 Launched **rich messaging on RCS and WhatsApp** in Braze, including AI-assisted replies
-- 🔁 Helped move large campaigns from **Salesforce Marketing Cloud to Braze**
-- 🎨 Design and build websites on the side, **4 shipped so far**
-- 🌐 Portfolio: **[syedniyaz2025.github.io](https://syedniyaz2025.github.io)**
+- 📝 Turn messy asks into clear **PRDs, user stories and acceptance criteria**
+- 🌐 Portfolio: **[Motion sites portfolio](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/)**
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -48,6 +48,28 @@ I work across **product, CRM and design**, so the thing we ship, the messages th
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ========== MOTION SITES ========== -->
+<h2 align="center">✨ Motion Sites</h2>
+
+<p align="center"><sub>Seven concept sites, one per local-business niche. Every brand is fictional. Each is a single HTML file with no frameworks: all the motion is hand-written.</sub></p>
+
+| Site | Niche | Signature motion | |
+|---|---|---|---|
+| **[Zest Riot](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/zest-riot/)** | Drinks brand | A 3D can spins and travels the whole page; pick a flavour and the site recolours | [code](./motion-sites/zest-riot/index.html) |
+| **[Honeywild Florals](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/honeywild/)** | Florist and wedding stylist | A bee follows your cursor and pollinates the flowers; a bouquet assembles on scroll | [code](./motion-sites/honeywild/index.html) |
+| **[Ember & Rye](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/ember-rye/)** | Café and restaurant | The pizza spins, then pulls apart slice by slice as you scroll | [code](./motion-sites/ember-rye/index.html) |
+| **[Lune Skin Atelier](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/lune/)** | Skincare clinic | A serum drop falls and ripples; liquid background follows the pointer | [code](./motion-sites/lune/index.html) |
+| **[Halden House](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/halden-house/)** | Interiors and kitchen showroom | An arched window opens into a full kitchen; repaint the cabinets live | [code](./motion-sites/halden-house/index.html) |
+| **[Bunch Market](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/bunch-market/)** | Supermarket | Fruit tumbles in with real physics; deals fly into the basket | [code](./motion-sites/bunch-market/index.html) |
+| **[Little Flame](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/little-flame/)** | Home-based candle business | Strike a match, the flame lights the page and leans away from your cursor | [code](./motion-sites/little-flame/index.html) |
+
+<p align="center">
+  <a href="https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/"><img src="https://img.shields.io/badge/Open%20the%20portfolio-FF69B4?style=for-the-badge" alt="Open the portfolio" /></a>
+  <a href="./motion-sites"><img src="https://img.shields.io/badge/Browse%20the%20code-EF93C4?style=for-the-badge" alt="Browse the code" /></a>
+</p>
 
 <br/>
 
@@ -59,7 +81,7 @@ I work across **product, CRM and design**, so the thing we ship, the messages th
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,github,vscode&perline=5" alt="Design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github,vscode&perline=6" alt="Design tools" />
 </p>
 
 <br/>
@@ -96,7 +118,7 @@ I work across **product, CRM and design**, so the thing we ship, the messages th
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-niyaz/"><img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:syedniyaz2025@gmail.com"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge" alt="Email" /></a>
-  <a href="https://syedniyaz2025.github.io"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 <p align="center"><sub>📧 syedniyaz2025@gmail.com</sub></p>
