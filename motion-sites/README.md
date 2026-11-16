@@ -4,6 +4,7 @@ Seven concept websites with scroll and cursor motion, one per local-business nic
 
 | Folder | Niche |
 |---|---|
+| `ganisthom/` | **Client work:** concept redesign for Ganisthom Consulting (official site: ganisthom.com) |
 | `zest-riot/` | Drinks brand |
 | `honeywild/` | Florist and wedding stylist (bee follows the cursor) |
 | `ember-rye/` | Café and restaurant |

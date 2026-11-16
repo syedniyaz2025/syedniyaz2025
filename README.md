@@ -40,7 +40,7 @@ I lead **CRM and product** for a living, and design **motion websites** on the s
 - 🔁 Helped move large campaigns from **Salesforce Marketing Cloud to Braze**
 - 📝 Turn messy asks into clear **PRDs, user stories and acceptance criteria**
 - 🎨 **Freelance web designer** at **Clydren**, building motion sites in Framer, HTML and CSS: scroll scenes, cursor interactions and small 3D moments
-- 🌐 Seven live demos in the **[motion sites portfolio](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/)** below
+- 🌐 A client redesign and seven live demos in the **[motion sites portfolio](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/)** below
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -53,6 +53,16 @@ I lead **CRM and product** for a living, and design **motion websites** on the s
 
 <!-- ========== MOTION SITES ========== -->
 <h2 align="center">✨ Freelance Work: Motion Sites</h2>
+
+<h3 align="center">⭐ Client work</h3>
+
+| Client | What I did | Signature motion | |
+|---|---|---|---|
+| **[Ganisthom Consulting](https://syedniyaz2025.github.io/syedniyaz2025/motion-sites/ganisthom/)** | Redesign concept for a Kerala business consultancy: books, training, one-to-one sessions, a free Business Health Check and tools, all leading to a call with the founder | Turnover counts to ₹100 crore on scroll; a warm glow that brightens as you scroll | [code](./motion-sites/ganisthom/index.html) |
+
+<p align="center"><sub>Concept redesign, shared with the client. Their official site is <a href="https://ganisthom.com">ganisthom.com</a>.</sub></p>
+
+<h3 align="center">Concept sites</h3>
 
 <p align="center"><sub>Seven concept sites, one per local-business niche. Every brand is fictional. Each is a single HTML file with no frameworks: all the motion is hand-written.</sub></p>
 
