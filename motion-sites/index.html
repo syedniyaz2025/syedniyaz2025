@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clydren Motion Sites</title>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;800&family=Manrope:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0F1012;--ink:#F3F0E8;--dim:#9A978F;--line:#2A2C30;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Manrope,"Segoe UI",Arial,sans-serif;line-height:1.5}
+main{max-width:1100px;margin:0 auto;padding:clamp(40px,8vw,110px) clamp(16px,5vw,48px)}
+h1{font-family:Unbounded,"Arial Black",sans-serif;font-weight:800;font-size:clamp(2.2rem,7vw,5.4rem);line-height:1;margin:0 0 1rem;text-wrap:balance}
+p.lead{color:var(--dim);max-width:34rem;margin:0 0 3rem;font-size:1.1rem}
+ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+a.row{display:grid;grid-template-columns:3rem 1fr auto;gap:16px;align-items:center;padding:22px 8px;border-bottom:1px solid var(--line);text-decoration:none;color:inherit;position:relative;overflow:hidden;transition:padding .35s}
+a.row::before{content:"";position:absolute;inset:0;background:var(--c);transform:translateY(101%);transition:transform .45s cubic-bezier(.2,.8,.2,1)}
+a.row:hover::before,a.row:focus-visible::before{transform:none}
+a.row:hover,a.row:focus-visible{padding-left:26px;color:var(--t,#111);outline:0}
+a.row>*{position:relative}
+.n{font-size:.8rem;color:var(--dim)}a.row:hover .n,a.row:hover .k{color:inherit}
+.t{font-family:Unbounded,"Arial Black",sans-serif;font-weight:500;font-size:clamp(1.2rem,3.4vw,2.2rem)}
+.k{color:var(--dim);font-size:.9rem;text-align:right}
+footer{margin-top:3rem;color:var(--dim);font-size:.85rem}
+@media (max-width:600px){a.row{grid-template-columns:1fr}.n{display:none}.k{text-align:left}}
+@media (prefers-reduced-motion:reduce){a.row,a.row::before{transition:none}}
+</style>
+</head>
+<body>
+<main>
+<h1>Motion sites for local businesses.</h1>
+<p class="lead">Seven concept sites, one for each kind of business on your high street. Every brand here is fictional. Yours could be next.</p>
+<ul>
+<li><a class="row" href="zest-riot/" style="--c:#FFD43B"><span class="n">01</span><span class="t">Zest Riot</span><span class="k">Drinks brand</span></a></li>
+<li><a class="row" href="honeywild/" style="--c:#EBA91C"><span class="n">02</span><span class="t">Honeywild Florals</span><span class="k">Florist and wedding stylist</span></a></li>
+<li><a class="row" href="ember-rye/" style="--c:#D9361E;--t:#F7EBD9"><span class="n">03</span><span class="t">Ember &amp; Rye</span><span class="k">Café and restaurant</span></a></li>
+<li><a class="row" href="lune/" style="--c:#E4DDED"><span class="n">04</span><span class="t">Lune Skin Atelier</span><span class="k">Beauty and skincare clinic</span></a></li>
+<li><a class="row" href="halden-house/" style="--c:#ECE7DE"><span class="n">05</span><span class="t">Halden House</span><span class="k">Interiors and kitchen showroom</span></a></li>
+<li><a class="row" href="bunch-market/" style="--c:#1F8A4C;--t:#FFFBF0"><span class="n">06</span><span class="t">Bunch Market</span><span class="k">Supermarket</span></a></li>
+<li><a class="row" href="little-flame/" style="--c:#FF9D2E"><span class="n">07</span><span class="t">Little Flame Candle Co.</span><span class="k">Home-based business</span></a></li>
+</ul>
+<footer>Design by Clydren. All brands, products and prices shown are fictional demos.</footer>
+</main>
+</body>
+</html>
